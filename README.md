@@ -51,7 +51,7 @@ The dashboard is divided into 5 main pages for clarity and focus:
 
 
 ## 📂 Repository Contents
-**Dashboard Interaction :** –  <a href="https://github.com/anjali1803/OLA-Data-Visualization-Project-/blob/main/ola_data_analysis.pbix">View Dashboard</a>
+**Dashboard Interaction :** –  <a href="https://github.com/Sahilkhilar2004/OLA-Data-Visualization-Project/blob/main/ola_data_analysis.pbix">View Dashboard</a>
 
 README.md – This file
 
